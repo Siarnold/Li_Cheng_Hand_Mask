@@ -1,0 +1,3 @@
+out=out
+mkdir $out
+./hands  img_prefix  msk_prefix  model/ globfeat/  RGB.list  '' 0 1 $out
